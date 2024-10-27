@@ -1,0 +1,18 @@
+#+TITLE: Kernel Prebuilts for Poco F6 Pro / Redmi K70 (vermeer)
+
+* Table of contents
+:PROPERTIES:
+:TOC:
+:END:
+:CONTENTS:
+- [[#about][About]]
+- [[#usage][Usage]]
+:END:
+
+* About
+
+This is a repository that holds the kernel prebuilts for the Poco F6 Pro / Redmi K70 (vermeer).
+
+* Usage
+
+When building for Poco F6 Pro / Redmi K70 (vermeer), clone this repository to device/xiaomi/vermeer-kernel.
